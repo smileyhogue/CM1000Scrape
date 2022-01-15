@@ -1,0 +1,10 @@
+{
+    "sqlUser": "SQL_User",
+    "sqlPass": "SQL_PASS",
+    "sqlHost": "SQL_HOST",
+    "sqlDatabase": "SQL_DATABASE",
+    "sqlTrust": true,
+    "sqlTable": "SQL_TABLE",
+    "modemHost": "MODEM_IP",
+    "Interval": INTERVAL_IN_MS
+}
