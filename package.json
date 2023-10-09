@@ -5,7 +5,7 @@
   "main": "ModemScraper.js",
   "dependencies": {
     "chromedriver": "^97.0.0",
-    "mssql": "^7.3.0",
+    "mssql": "^10.0.1",
     "selenium": "^2.20.0",
     "selenium-webdriver": "^4.1.1"
   },
